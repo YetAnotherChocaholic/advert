@@ -1,0 +1,87 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+   body {
+    background-color: gray;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    background-color: black;
+    background-image: url('/login.jpg');
+  
+  }
+  
+  p {
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  
+  h1 {
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  
+  h2 {
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  
+  h3 {
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  
+  h4 {
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  
+  a {
+    color: white;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .alert {
+    padding: 20px;
+    background-color: #e86100;
+    color: white;
+    margin-bottom: 0px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }
+  
+  .urgentalert {
+    padding: 20px;
+    background-color: #e2062c;
+    color: white;
+    margin-bottom: 0px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .goodupdate {
+    padding: 20px;
+    background-color: #3cb371;
+    color: white;
+    margin-bottom: 0px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  
+  
